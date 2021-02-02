@@ -8,4 +8,7 @@ I am ready to make mistakes :relaxed: Version control will remember them... :ok_
 
 > A person who never made a mistake never tried anything new.  
 
-I am starting to like motivation quotes :thinking:
+I am starting to like motivation quotes :thinking:  
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrinaSing)](https://github.com/anuraghazra/github-readme-stats)
